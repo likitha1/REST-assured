@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-07T19:01:23 IST" name="Default suite" finished-at="2023-12-07T19:01:27 IST" duration-ms="4220">
+    <groups>
+    </groups>
+    <test started-at="2023-12-07T19:01:23 IST" name="Default test" finished-at="2023-12-07T19:01:27 IST" duration-ms="4220">
+      <class name="practiseapi">
+        <test-method signature="Test1()[pri:0, instance:practiseapi@9353778]" started-at="2023-12-07T19:01:23 IST" name="Test1" finished-at="2023-12-07T19:01:25 IST" duration-ms="1963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test2()[pri:0, instance:practiseapi@9353778]" started-at="2023-12-07T19:01:25 IST" name="Test2" finished-at="2023-12-07T19:01:26 IST" duration-ms="1180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method signature="delete()[pri:0, instance:practiseapi@9353778]" started-at="2023-12-07T19:01:26 IST" name="delete" finished-at="2023-12-07T19:01:27 IST" duration-ms="1037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+      </class> <!-- practiseapi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
